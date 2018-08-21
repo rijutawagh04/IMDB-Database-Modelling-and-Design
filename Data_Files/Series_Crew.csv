@@ -1,0 +1,1001 @@
+Series_Id,Person_Id,Job_Title
+1,7,Writer              
+1,34,Writer              
+1,40,Writer              
+1,45,Co-producer         
+1,51,Producer            
+1,52,Sound director      
+1,55,Sound director      
+1,68,Co-producer         
+1,75,Co-producer         
+1,76,Writer              
+1,78,Writer              
+1,85,Writer              
+1,88,Photography Director
+1,90,Producer            
+1,91,Sound director      
+1,93,Producer            
+1,107,Editor              
+1,116,Director            
+1,123,Director            
+1,132,Producer            
+1,135,Editor              
+1,143,Sound director      
+1,184,Editor              
+1,189,Director            
+1,195,Producer            
+2,8,Writer              
+2,10,Co-producer         
+2,20,Sound director      
+2,24,Co-producer         
+2,29,Sound director      
+2,37,Director            
+2,59,Editor              
+2,67,Writer              
+2,72,Editor              
+2,104,Photography Director
+2,111,Writer              
+2,113,Producer            
+2,119,Photography Director
+2,122,Director            
+2,128,Photography Director
+2,138,Photography Director
+2,139,Photography Director
+2,153,Photography Director
+2,158,Writer              
+2,160,Writer              
+2,163,Writer              
+2,164,Photography Director
+2,172,Director            
+2,191,Producer            
+2,199,Writer              
+3,8,Director            
+3,9,Editor              
+3,16,Writer              
+3,17,Director            
+3,28,Director            
+3,33,Sound director      
+3,36,Producer            
+3,96,Sound director      
+3,98,Editor              
+3,102,Sound director      
+3,103,Director            
+3,105,Editor              
+3,115,Photography Director
+3,126,Writer              
+3,130,Writer              
+3,131,Editor              
+3,146,Director            
+3,154,Writer              
+3,155,Co-producer         
+3,166,Producer            
+3,171,Photography Director
+3,178,Photography Director
+3,182,Co-producer         
+3,183,Director            
+3,186,Director            
+4,6,Director            
+4,14,Director            
+4,15,Sound director      
+4,18,Co-producer         
+4,19,Director            
+4,23,Writer              
+4,35,Writer              
+4,41,Photography Director
+4,47,Photography Director
+4,53,Director            
+4,71,Photography Director
+4,73,Editor              
+4,79,Director            
+4,80,Photography Director
+4,97,Producer            
+4,114,Photography Director
+4,120,Editor              
+4,121,Producer            
+4,127,Editor              
+4,145,Producer            
+4,147,Editor              
+4,180,Director            
+4,187,Photography Director
+4,190,Director            
+4,198,Director            
+5,9,Writer              
+5,16,Co-producer         
+5,17,Writer              
+5,28,Director            
+5,33,Director            
+5,35,Producer            
+5,36,Producer            
+5,38,Co-producer         
+5,69,Producer            
+5,96,Co-producer         
+5,98,Editor              
+5,102,Producer            
+5,105,Producer            
+5,108,Writer              
+5,115,Producer            
+5,126,Photography Director
+5,130,Director            
+5,131,Editor              
+5,146,Producer            
+5,154,Director            
+5,155,Co-producer         
+5,166,Co-producer         
+5,182,Producer            
+5,183,Writer              
+5,186,Sound director      
+6,2,Producer            
+6,6,Sound director      
+6,18,Photography Director
+6,19,Editor              
+6,23,
+6,25,Director            
+6,41,Editor              
+6,47,Photography Director
+6,53,Director            
+6,70,Writer              
+6,71,Co-producer         
+6,73,Editor              
+6,79,Director            
+6,80,Writer              
+6,97,Sound director      
+6,114,Co-producer         
+6,120,Editor              
+6,121,Co-producer         
+6,127,Co-producer         
+6,129,Photography Director
+6,145,Co-producer         
+6,147,Sound director      
+6,180,Editor              
+6,187,Writer              
+6,190,Photography Director
+7,9,Writer              
+7,14,Writer              
+7,15,Producer            
+7,17,Editor              
+7,23,Producer            
+7,28,Co-producer         
+7,35,Director            
+7,38,Producer            
+7,41,Director            
+7,53,Sound director      
+7,69,Writer              
+7,79,Editor              
+7,80,Writer              
+7,96,Editor              
+7,102,Producer            
+7,105,Writer              
+7,108,Editor              
+7,115,Writer              
+7,126,Sound director      
+7,146,Co-producer         
+7,154,Producer            
+7,166,Producer            
+7,183,Director            
+7,186,Writer              
+7,198,Producer            
+8,1,Writer              
+8,21,Editor              
+8,22,Photography Director
+8,31,Sound director      
+8,39,Editor              
+8,42,Co-producer         
+8,44,Sound director      
+8,46,Producer            
+8,60,Editor              
+8,62,Sound director      
+8,63,Co-producer         
+8,70,Director            
+8,77,Photography Director
+8,87,Co-producer         
+8,94,Photography Director
+8,95,Co-producer         
+8,99,Director            
+8,109,Photography Director
+8,112,Sound director      
+8,124,Sound director      
+8,134,Sound director      
+8,141,Writer              
+8,142,Editor              
+8,150,Producer            
+8,161,Sound director      
+8,165,Co-producer         
+8,179,Writer              
+8,185,Editor              
+9,3,Sound director      
+9,7,Photography Director
+9,29,Co-producer         
+9,34,Director            
+9,43,Director            
+9,48,Co-producer         
+9,57,Producer            
+9,59,Director            
+9,72,Writer              
+9,78,Co-producer         
+9,85,Director            
+9,88,Sound director      
+9,90,Writer              
+9,93,Writer              
+9,107,Producer            
+9,128,Editor              
+9,139,Writer              
+9,153,Editor              
+9,159,Photography Director
+9,160,Writer              
+9,163,Director            
+9,168,Sound director      
+9,169,Co-producer         
+9,195,Editor              
+9,199,Editor              
+10,13,Director            
+10,22,Editor              
+10,27,Writer              
+10,39,Writer              
+10,46,Co-producer         
+10,52,Director            
+10,54,Sound director      
+10,56,Producer            
+10,61,Co-producer         
+10,63,Co-producer         
+10,74,Director            
+10,82,Writer              
+10,83,Sound director      
+10,94,Producer            
+10,109,Photography Director
+10,110,Photography Director
+10,117,Sound director      
+10,125,Photography Director
+10,149,Producer            
+10,151,Photography Director
+10,157,Editor              
+10,162,Co-producer         
+10,177,Editor              
+10,181,Producer            
+10,188,Sound director      
+10,194,Co-producer         
+11,13,Editor              
+11,27,Producer            
+11,39,Writer              
+11,40,Editor              
+11,46,Producer            
+11,52,Photography Director
+11,54,Producer            
+11,55,Photography Director
+11,56,Sound director      
+11,61,Writer              
+11,74,Photography Director
+11,82,Editor              
+11,83,Producer            
+11,110,Editor              
+11,117,Producer            
+11,125,Photography Director
+11,143,Director            
+11,149,Producer            
+11,151,Producer            
+11,157,Sound director      
+11,162,Producer            
+11,177,Co-producer         
+11,181,Sound director      
+11,188,Co-producer         
+11,189,Editor              
+11,194,Photography Director
+12,9,Co-producer         
+12,14,Co-producer         
+12,15,Director            
+12,17,Producer            
+12,28,Sound director      
+12,35,Writer              
+12,36,Photography Director
+12,38,Co-producer         
+12,69,Sound director      
+12,80,Co-producer         
+12,96,Co-producer         
+12,98,Co-producer         
+12,102,Writer              
+12,105,Editor              
+12,108,Producer            
+12,115,Sound director      
+12,126,Co-producer         
+12,131,Editor              
+12,146,Photography Director
+12,154,Co-producer         
+12,155,Co-producer         
+12,166,Writer              
+12,183,Photography Director
+12,186,Photography Director
+12,198,Producer            
+13,8,Editor              
+13,9,Editor              
+13,16,Sound director      
+13,28,Writer              
+13,33,Co-producer         
+13,36,Director            
+13,67,Editor              
+13,98,Sound director      
+13,102,Co-producer         
+13,103,Producer            
+13,105,Photography Director
+13,115,Sound director      
+13,119,Producer            
+13,126,Photography Director
+13,130,Director            
+13,131,Photography Director
+13,146,Writer              
+13,155,Writer              
+13,171,Producer            
+13,172,Director            
+13,178,Writer              
+13,182,Photography Director
+13,183,Co-producer         
+13,186,Writer              
+13,191,Director            
+14,8,Editor              
+14,10,Director            
+14,16,Editor              
+14,20,Producer            
+14,24,Sound director      
+14,33,Sound director      
+14,37,Photography Director
+14,59,Editor              
+14,67,Photography Director
+14,98,Co-producer         
+14,103,Editor              
+14,104,Co-producer         
+14,111,Photography Director
+14,113,Photography Director
+14,119,Co-producer         
+14,122,Director            
+14,130,Producer            
+14,138,Sound director      
+14,158,Sound director      
+14,164,Editor              
+14,171,Sound director      
+14,172,Co-producer         
+14,178,Producer            
+14,182,Photography Director
+14,191,Writer              
+15,2,Sound director      
+15,6,Photography Director
+15,18,Editor              
+15,19,Director            
+15,25,Editor              
+15,47,Sound director      
+15,53,Producer            
+15,60,Co-producer         
+15,62,Sound director      
+15,70,Director            
+15,71,Photography Director
+15,73,Photography Director
+15,97,Co-producer         
+15,112,Co-producer         
+15,114,Co-producer         
+15,120,Director            
+15,121,Director            
+15,124,Co-producer         
+15,127,Photography Director
+15,129,Editor              
+15,145,Writer              
+15,147,Photography Director
+15,180,Sound director      
+15,187,Editor              
+15,190,Producer            
+16,1,Editor              
+16,13,Sound director      
+16,22,Editor              
+16,31,Photography Director
+16,39,Photography Director
+16,42,Director            
+16,46,Writer              
+16,54,Director            
+16,56,Director            
+16,61,Sound director      
+16,63,Writer              
+16,74,Director            
+16,77,Producer            
+16,83,Director            
+16,94,Co-producer         
+16,95,Director            
+16,99,Co-producer         
+16,109,Sound director      
+16,110,Photography Director
+16,117,Producer            
+16,134,
+16,150,Sound director      
+16,151,Producer            
+16,161,Director            
+16,162,
+16,177,Producer            
+16,181,Photography Director
+17,27,Editor              
+17,40,Director            
+17,45,Co-producer         
+17,51,Editor              
+17,52,Producer            
+17,55,Photography Director
+17,68,Sound director      
+17,75,Co-producer         
+17,76,Producer            
+17,82,Sound director      
+17,83,Photography Director
+17,90,Photography Director
+17,91,Photography Director
+17,116,Photography Director
+17,123,Producer            
+17,125,Sound director      
+17,132,Director            
+17,135,Sound director      
+17,143,Editor              
+17,149,Co-producer         
+17,157,Producer            
+17,184,Co-producer         
+17,188,Co-producer         
+17,189,Editor              
+17,194,Producer            
+18,13,Producer            
+18,27,Co-producer         
+18,40,Editor              
+18,52,Editor              
+18,55,Co-producer         
+18,56,Sound director      
+18,61,Photography Director
+18,68,Writer              
+18,74,Sound director      
+18,75,Director            
+18,82,Editor              
+18,83,Co-producer         
+18,91,Editor              
+18,110,Director            
+18,117,Director            
+18,125,Producer            
+18,132,
+18,143,Co-producer         
+18,149,Writer              
+18,151,Editor              
+18,157,Director            
+18,177,Editor              
+18,181,Editor              
+18,188,Editor              
+18,189,Editor              
+18,194,Sound director      
+20,8,Writer              
+20,16,Sound director      
+20,28,Writer              
+20,33,Editor              
+20,36,Editor              
+20,37,Editor              
+20,67,Director            
+20,98,Sound director      
+20,103,Director            
+20,104,Writer              
+20,105,Writer              
+20,119,Co-producer         
+20,126,Co-producer         
+20,130,Editor              
+20,131,Writer              
+20,138,Producer            
+20,155,Writer              
+20,164,Editor              
+20,171,Editor              
+20,172,Producer            
+20,178,Photography Director
+20,182,Producer            
+20,183,Writer              
+20,186,Producer            
+20,191,Co-producer         
+21,8,Producer            
+21,10,Producer            
+21,20,Sound director      
+21,24,Director            
+21,29,Co-producer         
+21,37,Co-producer         
+21,59,Photography Director
+21,67,Co-producer         
+21,103,Co-producer         
+21,104,Director            
+21,111,Sound director      
+21,113,Sound director      
+21,119,Director            
+21,122,Photography Director
+21,128,Editor              
+21,130,Producer            
+21,138,Writer              
+21,158,Sound director      
+21,160,Writer              
+21,163,Producer            
+21,164,Co-producer         
+21,171,Photography Director
+21,172,Producer            
+21,178,Director            
+21,191,Director            
+22,1,Director            
+22,2,Director            
+22,6,Writer              
+22,21,Sound director      
+22,22,Producer            
+22,25,Co-producer         
+22,31,Producer            
+22,42,Director            
+22,44,Sound director      
+22,60,Director            
+22,62,Sound director      
+22,70,Sound director      
+22,77,Editor              
+22,87,Writer              
+22,95,Photography Director
+22,99,Director            
+22,109,Sound director      
+22,112,
+22,124,Sound director      
+22,129,Writer              
+22,134,Co-producer         
+22,141,Producer            
+22,142,Photography Director
+22,150,Photography Director
+22,161,Director            
+22,165,Sound director      
+22,179,Writer              
+22,185,Producer            
+23,1,Sound director      
+23,21,Photography Director
+23,22,Photography Director
+23,31,Writer              
+23,39,Photography Director
+23,42,Director            
+23,44,Sound director      
+23,46,Writer              
+23,54,Producer            
+23,62,Editor              
+23,63,
+23,77,Co-producer         
+23,87,Photography Director
+23,94,Writer              
+23,95,Photography Director
+23,99,Writer              
+23,109,Writer              
+23,110,Sound director      
+23,134,Director            
+23,141,Sound director      
+23,142,Editor              
+23,150,Director            
+23,161,Photography Director
+23,162,Sound director      
+23,165,Editor              
+23,177,Writer              
+23,179,Producer            
+23,185,Writer              
+24,14,Director            
+24,15,Writer              
+24,17,Sound director      
+24,19,Director            
+24,23,Producer            
+24,35,Director            
+24,38,Writer              
+24,41,Photography Director
+24,47,Editor              
+24,53,Photography Director
+24,69,
+24,79,Photography Director
+24,80,Writer              
+24,96,Director            
+24,97,Co-producer         
+24,102,Sound director      
+24,108,Director            
+24,114,Editor              
+24,120,Co-producer         
+24,121,Co-producer         
+24,127,Editor              
+24,154,Director            
+24,166,Photography Director
+24,190,Writer              
+24,198,Photography Director
+25,3,Co-producer         
+25,7,Producer            
+25,34,Producer            
+25,43,Photography Director
+25,45,Producer            
+25,48,Editor              
+25,51,Producer            
+25,57,Co-producer         
+25,72,Co-producer         
+25,78,Director            
+25,85,Photography Director
+25,88,Sound director      
+25,90,Producer            
+25,93,Writer              
+25,107,Co-producer         
+25,116,Sound director      
+25,123,Sound director      
+25,128,Editor              
+25,139,Co-producer         
+25,153,Sound director      
+25,159,Writer              
+25,168,Editor              
+25,169,Writer              
+25,195,Producer            
+25,199,Director            
+26,27,Co-producer         
+26,40,Writer              
+26,52,Writer              
+26,55,Writer              
+26,56,Sound director      
+26,61,Photography Director
+26,68,Writer              
+26,74,Editor              
+26,75,Editor              
+26,76,Editor              
+26,82,Photography Director
+26,83,Sound director      
+26,91,Editor              
+26,123,Co-producer         
+26,125,Sound director      
+26,132,Photography Director
+26,135,
+26,143,Photography Director
+26,149,Co-producer         
+26,151,Writer              
+26,157,
+26,181,Photography Director
+26,184,Producer            
+26,188,Photography Director
+26,189,Sound director      
+26,194,Co-producer         
+27,14,Editor              
+27,15,Director            
+27,17,Editor              
+27,19,Editor              
+27,23,Co-producer         
+27,35,Sound director      
+27,38,Director            
+27,41,Co-producer         
+27,47,Writer              
+27,53,Photography Director
+27,69,Editor              
+27,79,Co-producer         
+27,80,Writer              
+27,97,Co-producer         
+27,108,Editor              
+27,114,Producer            
+27,120,Editor              
+27,121,Co-producer         
+27,127,Writer              
+27,145,Photography Director
+27,147,Producer            
+27,180,Photography Director
+27,187,Co-producer         
+27,190,Writer              
+27,198,Photography Director
+28,9,Editor              
+28,14,Writer              
+28,15,Writer              
+28,17,Producer            
+28,19,Director            
+28,23,Director            
+28,35,Director            
+28,38,Co-producer         
+28,41,Director            
+28,53,Producer            
+28,69,Producer            
+28,79,Director            
+28,80,Producer            
+28,96,Co-producer         
+28,102,Producer            
+28,108,Producer            
+28,114,Director            
+28,115,Writer              
+28,121,Sound director      
+28,126,Sound director      
+28,146,Co-producer         
+28,154,Producer            
+28,166,Co-producer         
+28,190,Writer              
+28,198,Producer            
+29,3,Sound director      
+29,7,Writer              
+29,24,Director            
+29,29,Sound director      
+29,34,Sound director      
+29,43,Photography Director
+29,48,Producer            
+29,57,Director            
+29,59,Photography Director
+29,72,Producer            
+29,88,Producer            
+29,107,Editor              
+29,111,Sound director      
+29,122,Sound director      
+29,128,Photography Director
+29,139,Photography Director
+29,153,Co-producer         
+29,158,Director            
+29,159,Co-producer         
+29,160,Co-producer         
+29,163,Writer              
+29,168,Editor              
+29,169,Co-producer         
+29,195,Producer            
+29,199,Writer              
+30,2,Editor              
+30,6,Sound director      
+30,18,Co-producer         
+30,21,Director            
+30,25,Co-producer         
+30,47,Editor              
+30,60,Producer            
+30,62,Co-producer         
+30,70,Editor              
+30,71,Editor              
+30,73,Photography Director
+30,87,
+30,97,Sound director      
+30,112,Writer              
+30,120,Sound director      
+30,124,Editor              
+30,127,Sound director      
+30,129,Writer              
+30,142,Sound director      
+30,145,Writer              
+30,147,Photography Director
+30,165,Producer            
+30,180,Editor              
+30,185,Co-producer         
+30,187,Producer            
+30,190,Writer              
+31,2,Sound director      
+31,6,Photography Director
+31,18,Producer            
+31,21,Director            
+31,25,Sound director      
+31,31,Writer              
+31,42,Sound director      
+31,44,Writer              
+31,60,Editor              
+31,62,Co-producer         
+31,70,Co-producer         
+31,71,Sound director      
+31,73,Producer            
+31,87,Co-producer         
+31,95,Sound director      
+31,99,Sound director      
+31,112,Photography Director
+31,124,Sound director      
+31,129,Editor              
+31,134,Sound director      
+31,141,Producer            
+31,142,Photography Director
+31,145,Writer              
+31,150,Editor              
+31,161,Writer              
+31,165,Co-producer         
+31,179,Co-producer         
+31,185,Sound director      
+32,3,Director            
+32,7,Writer              
+32,10,Co-producer         
+32,20,Co-producer         
+32,24,Director            
+32,29,Editor              
+32,43,Director            
+32,48,Director            
+32,57,Sound director      
+32,59,Producer            
+32,72,Director            
+32,111,Co-producer         
+32,113,Writer              
+32,122,Co-producer         
+32,128,Producer            
+32,139,Sound director      
+32,153,Photography Director
+32,158,Producer            
+32,159,Director            
+32,160,Director            
+32,163,Editor              
+32,164,Producer            
+32,168,Producer            
+32,169,Producer            
+32,199,Co-producer         
+33,3,Writer              
+33,7,Sound director      
+33,34,Sound director      
+33,45,Photography Director
+33,48,Editor              
+33,51,Co-producer         
+33,55,Producer            
+33,68,Sound director      
+33,75,Co-producer         
+33,76,Writer              
+33,78,Director            
+33,85,Editor              
+33,88,Producer            
+33,90,Co-producer         
+33,91,Editor              
+33,93,Director            
+33,107,Photography Director
+33,116,Writer              
+33,123,Editor              
+33,132,Producer            
+33,135,Sound director      
+33,168,Photography Director
+33,169,Co-producer         
+33,184,Producer            
+33,195,Director            
+34,2,Editor              
+34,6,Editor              
+34,18,Director            
+34,21,Editor              
+34,25,Sound director      
+34,44,Editor              
+34,60,Director            
+34,62,Producer            
+34,70,Sound director      
+34,71,Editor              
+34,73,Producer            
+34,87,Editor              
+34,95,Photography Director
+34,112,Editor              
+34,120,Director            
+34,124,Photography Director
+34,129,Editor              
+34,141,Producer            
+34,142,Sound director      
+34,145,Photography Director
+34,147,Editor              
+34,161,Director            
+34,165,Co-producer         
+34,179,Sound director      
+34,180,Director            
+34,185,Writer              
+34,187,Photography Director
+35,8,Director            
+35,10,Writer              
+35,16,Co-producer         
+35,20,Producer            
+35,33,Director            
+35,36,Sound director      
+35,37,Director            
+35,67,Co-producer         
+35,98,Producer            
+35,103,Editor              
+35,104,
+35,113,Writer              
+35,119,Sound director      
+35,130,Director            
+35,131,Producer            
+35,138,Editor              
+35,155,Photography Director
+35,158,Writer              
+35,164,Producer            
+35,171,Producer            
+35,172,Photography Director
+35,178,Editor              
+35,182,Photography Director
+35,183,Photography Director
+35,191,Director            
+36,10,Co-producer         
+36,20,Editor              
+36,24,Writer              
+36,29,Writer              
+36,37,Co-producer         
+36,43,Sound director      
+36,57,Sound director      
+36,59,Sound director      
+36,72,Sound director      
+36,104,Sound director      
+36,111,Photography Director
+36,113,Writer              
+36,122,Writer              
+36,128,Sound director      
+36,138,Photography Director
+36,139,Photography Director
+36,153,Director            
+36,158,Sound director      
+36,159,Producer            
+36,160,Writer              
+36,163,Photography Director
+36,164,Producer            
+36,168,Photography Director
+36,191,Producer            
+36,199,Editor              
+37,1,Sound director      
+37,13,Co-producer         
+37,22,Sound director      
+37,31,Co-producer         
+37,39,Writer              
+37,42,Writer              
+37,44,Producer            
+37,46,Director            
+37,54,Editor              
+37,63,Writer              
+37,77,Producer            
+37,94,Director            
+37,95,Photography Director
+37,99,Editor              
+37,109,Co-producer         
+37,110,Co-producer         
+37,117,Writer              
+37,134,Photography Director
+37,141,Sound director      
+37,142,Director            
+37,150,Producer            
+37,151,Photography Director
+37,161,Director            
+37,162,
+37,177,Producer            
+37,179,Director            
+37,181,Editor              
+37,185,Director            
+38,3,Writer              
+38,7,Photography Director
+38,34,Sound director      
+38,43,Director            
+38,45,Co-producer         
+38,48,
+38,51,Sound director      
+38,57,Writer              
+38,76,Editor              
+38,78,Producer            
+38,85,Photography Director
+38,88,Co-producer         
+38,90,Co-producer         
+38,91,Photography Director
+38,93,Photography Director
+38,107,Writer              
+38,116,Editor              
+38,123,Producer            
+38,135,Director            
+38,159,Co-producer         
+38,168,Editor              
+38,169,Writer              
+38,184,Director            
+38,195,Co-producer         
+38,199,Writer              
+39,27,Sound director      
+39,40,Writer              
+39,45,Photography Director
+39,51,Writer              
+39,52,Producer            
+39,55,Co-producer         
+39,68,Sound director      
+39,75,Sound director      
+39,76,Writer              
+39,78,Editor              
+39,85,Photography Director
+39,90,Producer            
+39,91,Photography Director
+39,93,Photography Director
+39,116,Photography Director
+39,123,Director            
+39,132,Writer              
+39,135,Editor              
+39,143,Co-producer         
+39,149,Producer            
+39,184,Co-producer         
+39,188,Editor              
+39,189,Photography Director
+39,194,Writer              
+39,195,Producer            
+40,1,Writer              
+40,13,Director            
+40,22,Writer              
+40,39,Editor              
+40,46,Photography Director
+40,54,Director            
+40,56,Sound director      
+40,61,Co-producer         
+40,63,Director            
+40,74,Photography Director
+40,77,Producer            
+40,82,Producer            
+40,83,Photography Director
+40,94,Sound director      
+40,109,Sound director      
+40,110,Director            
+40,117,Director            
+40,125,Director            
+40,134,Sound director      
+40,150,Director            
+40,151,Photography Director
+40,157,Writer              
+40,162,
+40,177,Sound director      
+40,181,Editor              
+40,194,Director            
