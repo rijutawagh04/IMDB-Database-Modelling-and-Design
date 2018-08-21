@@ -3,18 +3,18 @@ Designed and modeled IMDB database using Toad Data Modeller 6.1 and queried the 
 
 The IMDB data model consists of the following main entities along with its relationship:
 -> Movie <br />
--> Tv Series
--> Genre
--> Theatre
--> Location
--> Season, Episode
--> Watch List
--> User
--> Channel
--> Show Time
--> Cast and Crew
--> Production
--> Nomination
--> Tickets Purchased
+-> Tv Series <br />
+-> Genre <br />
+-> Theatre <br />
+-> Location <br />
+-> Season, Episode <br />
+-> Watch List <br />
+-> User <br />
+-> Channel <br />
+-> Show Time <br />
+-> Cast and Crew <br />
+-> Production <br />
+-> Nomination <br />
+-> Tickets Purchased <br />
 
 
